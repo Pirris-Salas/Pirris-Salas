@@ -1,6 +1,6 @@
-## Hello!
-
+## :rocket: :recycle: :books:
+\
 ![](https://i.imgur.com/zDV4ggx.gif)
 
- ## On road to Android Mobile Developer :recycle:
+ ## Working to become an Android Mobile Developer :construction:
 
