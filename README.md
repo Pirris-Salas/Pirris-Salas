@@ -1,8 +1,7 @@
 # :costa_rica::recycle::books: Hola I'm Luis Salas
 #
 I used to work on the tourism industry, but I been always passionated about new technologies since I was a child. 
-At my 18 years old I developed my first Android application with Eclipse and Java at my backpack. Nowadays I'm in shock with all the
-amazing tools Google has provided. If someone ask, I'm climbing 🧗 this world with Android Studio, Flutter and Dart inside of my survivor kit.
+At my 18 years old I developed my first Android application with Eclipse and Java. Nowadays I'm learning how to move myself to the next level using Flutter and Dart.
 
 PD: Waiting for Fucshia OS, probably it will be my new rocket ship.:rocket:
 
