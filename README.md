@@ -3,7 +3,7 @@
 I used to work on the tourism industry, but I been always passionated about new technologies since I was a child. 
 At my 18 years old I developed my first Android application with Eclipse and Java. Nowadays I'm learning how to move myself to the next level using Flutter and Dart.
 
-PD: Waiting for Fucshia OS, probably it will be my new rocket ship.:rocket:
+PD: Still working on my growth, hopefully couple projects will be ready soon. Stay tuned.:rocket:
 
 \
 ![](https://i.imgur.com/zDV4ggx.gif=50x50)
