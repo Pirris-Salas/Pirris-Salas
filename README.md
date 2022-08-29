@@ -54,7 +54,7 @@ Covid 19 represented a challenge for all the tourism industry workers, for me th
 <br>
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pirris-Salas&theme=neon-palenight" /><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Pirris-Salas&count_private=true&theme=synthwave&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Pirris-Salas&count_private=true&theme=synthwave&show_icons=true" /><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pirris-Salas&layout=compact&langs_count=8&theme=synthwave" />
 </div>
 
